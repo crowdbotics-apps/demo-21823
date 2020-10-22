@@ -47,6 +47,12 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django.contrib.sites",
     "course",
+    "task",
+    "task_profile",
+    "tasker_business",
+    "location",
+    "wallet",
+    "task_category",
 ]
 LOCAL_APPS = [
     "home",
